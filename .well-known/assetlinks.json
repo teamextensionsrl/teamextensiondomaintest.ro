@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.myuvo.link",
+    "sha256_cert_fingerprints":
+    ["DC:83:1A:16:44:93:70:21:59:97:5D:84:42:0D:2A:8A:75:D2:0F:CB:3D:B7:C2:E7:8E:85:31:A7:47:22:9A:C4"]
+  }
+}]
